@@ -1,0 +1,18 @@
+<style>
+#principal {
+    border: solid  1px purple;
+    with: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+fieldset{
+    border: solid 1px pink;
+    padding: 5px;
+    font-weigth: bold;
+    border-radius: 20px;
+    background: lighblue;
+}
+legend{
+    margin-botton: 10px;
+}
+</style>
